@@ -1,4 +1,4 @@
 # hello-world
 First repository.
-A poor student.
+A poor but handsome student.
 I'm learning how to git:)
